@@ -1,0 +1,17 @@
+.navbar {
+    background-color: gray;
+}
+
+.navbar ul {
+    list-style: none;
+}
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px 15px;
+    display: inline-block;
+}
