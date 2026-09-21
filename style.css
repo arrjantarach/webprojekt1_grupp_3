@@ -15,13 +15,13 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
-h1 {
+.banner h1 {
     text-align: center;
     color: rgb(252, 251, 251);
     font-size: 30px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
-p {
+.banner p {
     text-align: center;
     line-height: 0.2;
     color: rgb(252, 251, 251);
