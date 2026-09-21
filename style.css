@@ -2,9 +2,20 @@ body {
     background-color: #dec6c6;
     font-family: Arial, sans-serif;
 }
+.banner {
+    background-image: url("grass.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 h1 {
     text-align: center;
-    color: rgb(1, 1, 1);
+    color: rgb(252, 251, 251);
     font-size: 50px;
 }
 .navbar {
