@@ -1,14 +1,36 @@
 body {
-    background-color: #dec6c6;
+    background-color: #fdfcfc;
     font-family: Arial, sans-serif;
+}
+.banner {
+    background-image: url("grass.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 h1 {
     text-align: center;
-    color: rgb(1, 1, 1);
+    color: rgb(252, 251, 251);
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+p {
+    text-align: center;
+    line-height: 0.2;
+    color: rgb(252, 251, 251);
     font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .navbar {
-    background-color: gray;
+    background-color: #6fb45a;
+    border-radius: 10px;
 }
 
 .navbar ul {
@@ -20,7 +42,7 @@ h1 {
 
 .navbar a {
     text-decoration: none;
-    color: #333;
+    color: #fdfbfb;
     padding: 10px 15px;
     display: inline-block;
 }
