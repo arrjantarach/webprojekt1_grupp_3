@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
 }
 .banner {
-    background-image: url("grass.jpg");
+    background-image: url("images/grass.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
