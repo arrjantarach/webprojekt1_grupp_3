@@ -84,7 +84,7 @@ img {
   height: auto;
   display: block;
 }
-.imgindex { /* Döp om den här tack, borde vara text-right, denna används ingenstans, ska vi ta bort den? */
+.imgindex { /* Döp om den här tack, borde vara text-right.*/
   display: block;
   max-width: 100%;
   width: 50%;
@@ -108,7 +108,7 @@ img {
     margin-bottom: 20px;
 }
 
-.buss-text {    /* Denna används ingenstans, ska vi ta bort den?*/
+.buss-text {
   display: flex;
   flex-direction: column;
   gap: 20px;
