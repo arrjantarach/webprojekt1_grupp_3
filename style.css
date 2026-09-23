@@ -124,15 +124,9 @@ img {
 }
 
 .container-index {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.image-wide {
-  display: flex;
-  max-width: 100%;
-  height: auto;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  align-items: start;
   margin-bottom: 20px;
   margin-left: 50%;
   border-radius: 10px;
@@ -140,16 +134,22 @@ img {
 }
 
 .textbox4 {
-  box-sizing: border-box;
   line-height: 1.5;
   background-color: #b1dca4;
   padding: 30px;
   border-radius: 10px;
   width: 48%;
   height: auto;
+  width: 100%;
+  box-sizing: border-box;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
+.buss-text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 @media (max-width: 800px) {
   .image-grid {
     grid-template-columns: 1fr;
@@ -159,6 +159,7 @@ img {
     width: 100%;
   }
 }
+
 blockquote {
   background-color: #78b2677b;
   padding: 20px;
