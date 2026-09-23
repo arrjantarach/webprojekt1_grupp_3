@@ -130,31 +130,27 @@ img {
   word-wrap: break-word;
 }
 
-.container-index{
-  display: flex;
-  flex-direction: column;
+.container-index {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(250px, 40%);
   gap: 20px;
-}
-
-.image-wide {
-  display: flex;
-  max-width: 100%;
-  height: auto;
   margin-bottom: 20px;
-  margin-left: 50%;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .textbox4 {
-  box-sizing: border-box;
+  flex-direction: column;
   line-height: 1.5;
   background-color: #b1dca4;
   padding: 30px;
   border-radius: 10px;
-  width: 48%;
   height: auto;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.buss-text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 @media (max-width: 800px) {
   .image-grid {
