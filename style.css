@@ -1,3 +1,9 @@
+/* ═══════════════════ Variables ═══════════════════ */
+:root
+{
+  --shadow-main: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
 /* ═══════════════════ Body ═══════════════════ */
 body {
   background-color: #fdfcfc;
@@ -16,7 +22,7 @@ body {
   align-items: center;
   justify-content: center;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-main);
 }
 .banner h1 {
   text-align: center;
@@ -36,7 +42,7 @@ body {
 .navbar {
   background-color: #6fb45a;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-main);
 }
 .navbar ul {
   list-style: none;
@@ -71,7 +77,7 @@ img {
   width: 100%;
   height: 100%;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-main);
 }
 .image-row {
   display: flex;
@@ -85,7 +91,7 @@ img {
   height: auto;
   display: block;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-main);
 }
 
 /* ═══════════════════ Text ═══════════════════ */
@@ -96,7 +102,7 @@ img {
   height: 100%;
   padding: 30px;
   background-color: #b1dca4;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-main);
   margin-bottom: 20px;
 }
 
@@ -106,7 +112,7 @@ img {
   width: 100%;
   padding: 30px;
   background-color: #b1dca4;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-main);
   box-sizing: border-box;
   margin-bottom: 20px;
 }
@@ -117,7 +123,7 @@ img {
   padding: 30px;
   border-radius: 10px;
   max-width: 800px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-main);
   margin-bottom: 20px;
   box-sizing: border-box;
   word-wrap: break-word;
@@ -139,7 +145,7 @@ img {
   height: auto;
   width: 100%;
   box-sizing: border-box;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-main);
 }
 
 .image-wide {
@@ -182,9 +188,7 @@ footer {
   display: block;
   border-radius: 10px;
   padding: 10px;
-  box-shadow:
-    0 4px 8px rgba(0, 0, 0, 0.516),
-    0 7px 6px rgba(0, 0, 0, 0.559);
+  box-shadow: var(--shadow-main);
 }
 .copyright {
   color: #fdfbfb;
