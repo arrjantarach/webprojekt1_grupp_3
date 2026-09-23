@@ -123,7 +123,7 @@ img {
   word-wrap: break-word;
 }
 
-.container-index{
+.container-index {
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -206,4 +206,3 @@ footer {
     0 6px 12px rgba(0, 0, 0, 0.671),
     0 2px 4px rgba(0, 0, 0, 0.15);
 }
-
