@@ -1,6 +1,5 @@
 /* ═══════════════════ Variables ═══════════════════ */
-:root
-{
+:root {
   --shadow-main: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
@@ -86,7 +85,7 @@ img {
   margin-bottom: 20px;
 }
 .image-left {
-  width: 550px;
+  width: 560px;
   max-width: 100%;
   height: auto;
   display: block;
