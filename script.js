@@ -9,7 +9,7 @@ fetch("footer.html")
   .then((data) => {
     document.getElementById("footer").innerHTML = data;
     const btn = document
-      .getElementById("toTopBtn")
+      .getElementById("button")
       .addEventListener("click", () =>
         window.scrollTo({ top: 0, behavior: "smooth" }),
       );
