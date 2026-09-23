@@ -112,6 +112,7 @@ img {
 }
 .right-image {
   display: flex;
+  width: auto;
   justify-content: right;
   align-items: center;
   gap: 20px;
