@@ -143,28 +143,38 @@ img {
 
 .container-index {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(250px, 40%);
-  gap: 20px;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  align-items: start;
   margin-bottom: 20px;
 }
 
 .textbox4 {
-  flex-direction: column;
   line-height: 1.5;
   background-color: #b1dca4;
   padding: 30px;
   border-radius: 10px;
   height: auto;
+  width: 100%;
+  box-sizing: border-box;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .image-wide {
   display: block;
-  max-width: 100%;
+  width: 100%;
+  max-width: 550px;
   height: auto;
+  justify-self: center;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
+
+.image-wide img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
 blockquote {
   background-color: #78b2677b;
   padding: 20px;
