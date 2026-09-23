@@ -88,9 +88,8 @@ img {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 .image-wide {
-  display: block;
+  display: flex;
   max-width: 100%;
-  width: 50%;
   height: 100%;
   margin-bottom: 20px;
   margin-left: 50%;
@@ -133,15 +132,22 @@ img {
 }
 
 .textbox4 {
+  box-sizing: border-box;
   line-height: 1.5;
   background-color: #b1dca4;
   padding: 30px;
   border-radius: 10px;
-  width: 44%;
+  width: 48%;
   height: auto;
-  max-width: 100%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
 .buss-text {
   display: flex;
   flex-direction: column;
