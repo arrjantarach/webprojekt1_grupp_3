@@ -142,12 +142,6 @@ img {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
 .buss-text {
   display: flex;
   flex-direction: column;
@@ -203,4 +197,10 @@ footer {
   box-shadow:
     0 6px 12px rgba(0, 0, 0, 0.671),
     0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
