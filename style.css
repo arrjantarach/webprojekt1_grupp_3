@@ -54,6 +54,9 @@ body {
 }
 .navbar ul {
   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
 }
 .navbar li {
   display: inline;
@@ -181,9 +184,35 @@ img {
 }
 
 @media (max-width: 800px) {
+  .banner {
+    height: 180px;
+  }
+
+  .banner h1 {
+    font-size: clamp(2rem, 10vw, 3.5rem);
+    letter-spacing: 2px;
+  }
+
+  .navbar a {
+    padding: 10px 8px;
+  }
+
   .image-grid {
     grid-template-columns: 1fr;
   }
+
+  .container-index {
+    grid-template-columns: 1fr;
+  }
+
+  .textbox5 {
+    font-size: clamp(1.5rem, 7vw, 2rem);
+  }
+
+  .textbox4 {
+    padding: 20px;
+  }
+
   .textbox {
     box-sizing: border-box;
     width: 100%;
