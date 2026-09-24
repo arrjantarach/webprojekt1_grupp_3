@@ -147,6 +147,11 @@ img {
   box-shadow: var(--shadow-main);
 }
 
+.textbox5 {
+  font-size: 25px;
+  margin-top: 50px;
+}
+
 .image-wide {
   width: 100%;
   max-width: 550px;
