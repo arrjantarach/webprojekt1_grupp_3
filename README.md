@@ -8,14 +8,14 @@ Vår idé är att skapa en lättillgänglig webbplats som informerar om kollekti
 - **Förändra:** Bemöta uppfattningen att kollektivt resande är krångligt eller ineffektivt.
 - **Utvecklas:** Bygga en snygg och informativ webbplats (vårt HTML-projekt!).
 
-## Live Website 
+## Live Website
 The website is hosted using GitHub Pages and can be accessed here:
  
 [Visit the live website](https://arrjantarach.github.io/webprojekt1_grupp_3/)
  
 Using the hosted version is the easiest way to view the website because no download or local server is required.
  
-### Running the Project Locally
+## Running the Project Locally
 The website should be run through a local server instead of opening `index.html` directly. This ensures that shared HTML components and other project resources are loaded correctly.
 
 Follow these steps to run the website locally using Visual Studio Code and the Live Server extension:
@@ -28,12 +28,12 @@ Follow these steps to run the website locally using Visual Studio Code and the L
 6. Right-click inside the file and select **Open with Live Server**.
 7. The website will open automatically in your default web browser or within Visual Studio Code.
 
-# Strukturen på hemsidan
+## Strukturen på hemsidan
 
-# Buggar
+## Buggar
 
-# Referenser
-## Buss
+## Referenser
+### Buss
 [Svensk kollektivtrafik. *Rapporter: Kollektivtrafikens bidrag till transportsektorns klimatmål.* Hämtad 20 september 2026.](https://svenskkollektivtrafik.se/aktuellt/rapporter/kollektivtrafikens-bidrag-till-transportsektorns-klimatmal/)
 
 [Folkhalsomyndigheten. *Miljö och hälsa: Hur påverkar miljön befolkningen?* Hämtad 20 september 2026.](https://www.folkhalsomyndigheten.se/vara-amnesomraden/miljo-och-halsa/sa-paverkar-miljon-hur-befolkningen-mar/sa-paverkas-halsan-av-buller-och-hoga-ljudnivaer/)
@@ -46,7 +46,7 @@ Follow these steps to run the website locally using Visual Studio Code and the L
 
 [Vasttrafik. *Hållbara resor: Elektrifiering.* Hämtad 22 september 2026.](https://www.vasttrafik.se/om-vasttrafik/hallbara-resor/elektrifiering/)
 
-## Tåg
+### Tåg
 [Trafikverket (2025). *För dig i branschen: Miljösäkring.* Hämtad 21 september 2026](https://bransch.trafikverket.se/for-dig-i-branschen/miljo---for-dig-i-branschen/arbetssatt-och-metoder-for-miljo-i-vag--och-jarnvagsprojekt/miljobedomning-och-miljobeskrivning/Miljosakring/)
 
 [Trafikverkat (2025). *För dig i branschen: Miljöbedömning och miljöbeskrivning.* Hämtad 20 september 2026](https://bransch.trafikverket.se/for-dig-i-branschen/miljo---for-dig-i-branschen/arbetssatt-och-metoder-for-miljo-i-vag--och-jarnvagsprojekt/miljobedomning-och-miljobeskrivning/)
@@ -55,7 +55,7 @@ Follow these steps to run the website locally using Visual Studio Code and the L
 
 [Järnvägsmuseet. *Utforska: Järnvägens historia.* Hämtad 20 september 2026.](https://www.jarnvagsmuseet.se/utforska/jarnvagens-historia)
 
-## Tunnelbana
+### Tunnelbana
 [Nya tunnelbanan. *Så bygger vi: Hållbarhet.* Hämtad 21 september 2026.](https://nyatunnelbanan.se/hallbarhet)
 
 [Wikipedia. *Tunnelbana.* Hämtad 21 september 2026.](https://sv.wikipedia.org/wiki/Tunnelbana#CITEREFInternationella_kollektivtrafikunionen2015)
