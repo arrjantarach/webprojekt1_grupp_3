@@ -8,25 +8,25 @@ Vår idé är att skapa en lättillgänglig webbplats som informerar om kollekti
 - **Förändra:** Bemöta uppfattningen att kollektivt resande är krångligt eller ineffektivt.
 - **Utvecklas:** Bygga en snygg och informativ webbplats (vårt HTML-projekt!).
 
-## Live Website
-The website is hosted using GitHub Pages and can be accessed here:
- 
-[Visit the live website](https://arrjantarach.github.io/webprojekt1_grupp_3/)
- 
-Using the hosted version is the easiest way to view the website because no download or local server is required.
- 
-## Running the Project Locally
-The website should be run through a local server instead of opening `index.html` directly. This ensures that shared HTML components and other project resources are loaded correctly.
+## Live Webbplats
+Webbplatsen är värd via GitHub Pages och kan nås här:
 
-Follow these steps to run the website locally using Visual Studio Code and the Live Server extension:
- 
-1. Download or clone the GitHub repository to your computer.
-2. Open the project folder in Visual Studio Code.
-3. Open the Extensions panel in Visual Studio Code.
-4. Search for **Live Server** and install the extension.
-5. Open the project's main `index.html` file.
-6. Right-click inside the file and select **Open with Live Server**.
-7. The website will open automatically in your default web browser or within Visual Studio Code.
+[Besök live-webbplatsen](https://arrjantarach.github.io/webprojekt1_grupp_3/)
+
+Att använda den publicerade versionen är det enklaste sättet att visa webbplatsen eftersom varken nedladdning eller lokal server krävs.
+
+## Köra projektet lokalt
+Webbplatsen bör köras via en lokal server i stället för att öppna `index.html` direkt. Detta säkerställer att delade HTML-komponenter och andra projektresurser läses in korrekt.
+
+Följ dessa steg för att köra webbplatsen lokalt med hjälp av Visual Studio Code och tillägget Live Server:
+
+1. Ladda ner eller klona GitHub-arkivet till din dator.
+2. Öppna projektmappen i Visual Studio Code.
+3. Öppna tilläggspanelen (Extensions) i Visual Studio Code.
+4. Sök efter **Live Server** och installera tillägget.
+5. Öppna projektets huvudsakliga `index.html`-fil.
+6. Högerklicka i filen och välj **Open with Live Server**.
+7. Webbplatsen öppnas automatiskt i din standardwebbläsare eller i Visual Studio Code.
 
 ## Strukturen på hemsidan
 
@@ -67,7 +67,7 @@ Follow these steps to run the website locally using Visual Studio Code and the L
 
 [Naturvårdsverket. *Greenhouse gas emissions from domestic transport* Hämtad 25 september 2026.](https://www.naturvardsverket.se/data-och-statistik/klimat/vaxthusgaser-utslapp-fran-inrikes-transporter/)
 
-## Work Distribution and Individual Contributions
+## Arbetsfördelning och individuella bidrag
 ### Student 1
 
 
