@@ -8,6 +8,11 @@ Vår idé är att skapa en lättillgänglig webbplats som informerar om kollekti
 - **Förändra:** Bemöta uppfattningen att kollektivt resande är krångligt eller ineffektivt.
 - **Utvecklas:** Bygga en snygg och informativ webbplats (vårt HTML-projekt!).
 
+## Tekniker
+- HTML
+- CSS
+- Lite JavaScript
+
 ## Live Webbplats
 Webbplatsen är värd via GitHub Pages och kan nås här:
 
@@ -29,6 +34,17 @@ Följ dessa steg för att köra webbplatsen lokalt med hjälp av Visual Studio C
 7. Webbplatsen öppnas automatiskt i din standardwebbläsare eller i Visual Studio Code.
 
 ## Strukturen på hemsidan
+
+## Tekniker
+### Index
+### Buss
+### Tåg
+### Tunnelbana
+### Om oss
+
+## Kurskrav
+
+## Förbättringar / Vidareutveckling
 
 ## Buggar
 
