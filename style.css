@@ -108,7 +108,6 @@ img {
 }
 .image-wide {
   width: 100%;
-  max-width: 550px;
   justify-self: center;
 }
 
@@ -159,8 +158,8 @@ img {
 .container-index {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  gap: 20px;
-  align-items: start;
+  gap: 50px;
+  align-items: center;
   margin-bottom: var(--margin-bottom-main);
 }
 
