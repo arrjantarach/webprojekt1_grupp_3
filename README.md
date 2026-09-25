@@ -1,15 +1,34 @@
 # webprojekt1_grupp_3
 ## Nästa hållplats
 Vår idé är att skapa en lättillgänglig webbplats som informerar om kollektivtrafikens miljöfördelar och bemöter vanliga fördomar om kollektivt resande. Vår hypotes är att tydligare information kan förbättra besökarnas inställning till kollektivtrafik och göra fler villiga att välja den framför bilen. Om fler människor väljer kollektivtrafik kan det i längden bidra till minskade utsläpp och mer hållbara och levande städer.
+
 ### Mål
 - **Utbilda:** Sprida tydlig informatiom om kollektivtrafikens miljöfördelar.
 - **Inspirera:** Uppmuntra fler att överväga kollektivtrafik framflr bilen.
 - **Förändra:** Bemöta uppfattningen att kollektivt resande är krångligt eller ineffektivt.
 - **Utvecklas:** Bygga en snygg och informativ webbplats (vårt HTML-projekt!).
 
+## Live Website 
+The website is hosted using GitHub Pages and can be accessed here:
+ 
+[Visit the live website](https://arrjantarach.github.io/webprojekt1_grupp_3/)
+ 
+Using the hosted version is the easiest way to view the website because no download or local server is required.
+ 
+### Running the Project Locally
+The website should be run through a local server instead of opening `index.html` directly. This ensures that shared HTML components and other project resources are loaded correctly.
+
+Follow these steps to run the website locally using Visual Studio Code and the Live Server extension:
+ 
+1. Download or clone the GitHub repository to your computer.
+2. Open the project folder in Visual Studio Code.
+3. Open the Extensions panel in Visual Studio Code.
+4. Search for **Live Server** and install the extension.
+5. Open the project's main `index.html` file.
+6. Right-click inside the file and select **Open with Live Server**.
+7. The website will open automatically in your default web browser or within Visual Studio Code.
+
 # Strukturen på hemsidan
-
-
 
 # Buggar
 
@@ -42,3 +61,18 @@ Vår idé är att skapa en lättillgänglig webbplats som informerar om kollekti
 [Wikipedia. *Tunnelbana.* Hämtad 21 september 2026.](https://sv.wikipedia.org/wiki/Tunnelbana#CITEREFInternationella_kollektivtrafikunionen2015)
 
 [Transportstyrelsen (2025). *Järnväg: Miljö och hälsa.* Hämtad 21 september 2026.](https://www.transportstyrelsen.se/sv/jarnvag/miljo-och-halsa---jarnvag/klimat-och-energi/)
+
+## Work Distribution and Individual Contributions
+### Student 1
+
+
+### Student 2
+
+
+### Student 3
+
+
+### Student 4
+
+
+### Student 5
