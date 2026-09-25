@@ -1,21 +1,21 @@
 /* ═══════════════════ Variables ═══════════════════ */
 :root {
-/* Colors */
---text-box-bg-color: #b1dca4;
---text-light-color: #fdfbfb;
+  /* Colors */
+  --text-box-bg-color: #b1dca4;
+  --text-light-color: #fdfbfb;
 
-/* Typography */
---line-height-main: 1.5;
+  /* Typography */
+  --line-height-main: 1.5;
 
-/* Spacing */
---margin-bottom-main: 20px;
---textbox-padding: 30px;
+  /* Spacing */
+  --margin-bottom-main: 20px;
+  --textbox-padding: 30px;
 
-/* Borders */
---border-radius-main: 10px;
+  /* Borders */
+  --border-radius-main: 10px;
 
-/* Shadows */
---shadow-main: 0 4px 8px rgba(0, 0, 0, 0.5);
+  /* Shadows */
+  --shadow-main: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 /* ═══════════════════ Body ═══════════════════ */
@@ -94,7 +94,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  margin-bottom: var(--margin-bottom-main);;
+  margin-bottom: var(--margin-bottom-main);
 }
 .image-left {
   width: 560px;
@@ -122,7 +122,7 @@ img {
   border-radius: var(--border-radius-main);
   width: 100%;
   padding: var(--textbox-padding);
-  background-color: var(--text-box-bg-color);;
+  background-color: var(--text-box-bg-color);
   box-shadow: var(--shadow-main);
   box-sizing: border-box;
   margin-bottom: var(--margin-bottom-main);
@@ -134,7 +134,7 @@ img {
   padding: var(--textbox-padding);
   border-radius: var(--border-radius-main);
   max-width: 800px;
-  box-shadow: var(--shadow-main); 
+  box-shadow: var(--shadow-main);
   margin-bottom: var(--margin-bottom-main);
   box-sizing: border-box;
   word-wrap: break-word;
@@ -256,8 +256,4 @@ footer {
   cursor: pointer;
   font-size: 16px;
   box-shadow: var(--shadow-main);
-}
-.stilsak:hover {
-  transition: transform 2s ease;
-  transform: scale(1.1) translateX(35px);
 }
