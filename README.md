@@ -62,6 +62,11 @@ Follow these steps to run the website locally using Visual Studio Code and the L
 
 [Transportstyrelsen (2025). *Järnväg: Miljö och hälsa.* Hämtad 21 september 2026.](https://www.transportstyrelsen.se/sv/jarnvag/miljo-och-halsa---jarnvag/klimat-och-energi/)
 
+### Om Oss
+[Trafa. *Trafikanalys, Travelhabits in Sweden* Hämtad 2 september 2026.](https://www.trafa.se/transportmonster/RVU-Sverige/)
+
+[Naturvårdsverket. *Greenhouse gas emissions from domestic transport* Hämtad 25 september 2026.](https://www.naturvardsverket.se/data-och-statistik/klimat/vaxthusgaser-utslapp-fran-inrikes-transporter/)
+
 ## Work Distribution and Individual Contributions
 ### Student 1
 
