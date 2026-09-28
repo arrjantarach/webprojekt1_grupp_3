@@ -41,18 +41,6 @@ Följ dessa steg för att köra webbplatsen lokalt med hjälp av Visual Studio C
 
 ## Strukturen på hemsidan
 
-## Tekniker
-
-### Index
-
-### Buss
-
-### Tåg
-
-### Tunnelbana
-
-### Om oss
-
 ## Kurskrav
 
 ## Förbättringar / Vidareutveckling
