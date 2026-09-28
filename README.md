@@ -120,7 +120,10 @@ Jag har även bidragit genom att vara tillgänglig för kontakt både under och 
 
 ### Student 4
 
-Jag har gjort sidan som handlar om tunnelbana. Fick ansvar över att göra en footer till hemsidan, där jag även la till en backtotop-button. För att minska mängden DRY-koder lade jag till footern i javascript-filen för att kunna fetcha till varje enskild html-sida.
+Jag har skapat sidan "Tunnelbana" och har ansvarat för dess innehåll. Har stylat sidan efter den stil som bestämdes.
+Använde mig av blockquote för att lägga in ett längre citat med källa.
+Fick ansvar över att göra en footer till hemsidan, där jag även la till en "backtotop"-button. För att minska mängden DRY-koder lade jag till footern i javascript-filen för att fetchas till varje enskild sub-sida.
+Har även varit delaktig i diskussioner och beslut gällande hemsidan.
 
 ### Student 5
 
