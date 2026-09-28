@@ -109,14 +109,14 @@ Följ dessa steg för att köra webbplatsen lokalt med hjälp av Visual Studio C
 
 ### Student 2
 
+### Student 3
+
 Gjort tågsidan och dess innehåll.
 Lagt in text, bilder och länkar i HTML.
 Delat upp sidan i olika sektioner för att organisera innehållet.
 Rättat fel i koden och gjort ändringar under arbetets gång.
 
 Jag har även bidragit genom att vara tillgänglig för kontakt både under och utanför skoltid för att försöka hjälpa gruppen, svara på frågor och diskutera eventuella problem som uppstått under projektets gång.
-
-### Student 3
 
 ### Student 4
 
