@@ -41,6 +41,30 @@ Följ dessa steg för att köra webbplatsen lokalt med hjälp av Visual Studio C
 
 ## Strukturen på hemsidan
 
+webprojekt1_grupp_3
+│
+├── .vscode/
+│
+├── images/
+│     ├── buss.png
+│     ├── tunnelbana.png
+│     ├── tag.png
+│     └── (övriga bilder)
+│
+├── banner.html
+├── buss.html
+├── footer.html
+├── index.html
+├── navbar.html
+├── om.html
+├── tåg.html
+├── tunnelbana.html
+│
+├── script.js
+├── style.css
+│
+└── README.md
+
 ## Kurskrav
 
 ## Förbättringar / Vidareutveckling
