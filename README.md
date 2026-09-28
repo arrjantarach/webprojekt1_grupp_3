@@ -111,9 +111,13 @@ webprojekt1_grupp_3
 
 ## Arbetsfördelning och individuella bidrag
 
-Vi har bidragit genom att vara tillgänglig för kontakt både under och utanför skoltid för att försöka hjälpa gruppen, svara på frågor och diskutera eventuella problem som uppstått under projektets gång.
+Vi har bidragit genom att vara tillgänglig för kontakt både under och utanför skoltid för att försöka hjälpa gruppen, svara på frågor och diskutera eventuella problem som uppstått under projektets gång. Vi har alla varit delaktig i diskussioner kring webbsidan samt i beslut som tagits. 
 
 ### Student 1
+
+Jag har gjort index-sidan och dess innehåll. Där har jag skrivit en sammanfattning och delat upp textruta och bild i kolumner för att lägga dom bredvid varandra. Har stylat webbsidan i CSS genom att bland annat sätta gemensamma typsnitt och färger. 
+Jag har även gjort bannern där jag lagt till en bild som bakgrund och gjort mer styling i CSS. 
+Jag har gjort så att navbar och index-sidan anpassar sig efter skärmstorlek.
 
 ### Student 2
 
@@ -129,7 +133,6 @@ Rättat fel i koden och gjort ändringar under arbetets gång.
 Jag har skapat sidan "Tunnelbana" och har ansvarat för dess innehåll. Har stylat sidan efter den stil som bestämdes.
 Använde mig av blockquote för att lägga in ett längre citat med källa.
 Fick ansvar över att göra en footer till hemsidan, där jag även la till en "backtotop"-button. För att minska mängden DRY-koder lade jag till footern i javascript-filen för att fetchas till varje enskild sub-sida.
-Har även varit delaktig i diskussioner och beslut gällande hemsidan.
 
 ### Student 5
 
