@@ -121,6 +121,9 @@ Jag har gjort så att navbar och index-sidan anpassar sig efter skärmstorlek.
 
 ### Student 2
 
+Jag har haft hand om sidan ”buss”, lagt till textrutor och bild och länkar. Gjort de gröna rutorna samt en kolumnlayout för att bilden ska vara bredvid de två gröna rutorna.
+Har varit delaktig i strukturen i README, kategorisering i CSSen och fixandet av bannern.
+
 ### Student 3
 
 Gjort tågsidan och dess innehåll.
