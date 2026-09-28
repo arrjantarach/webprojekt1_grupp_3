@@ -111,6 +111,8 @@ webprojekt1_grupp_3
 
 ## Arbetsfördelning och individuella bidrag
 
+Vi har bidragit genom att vara tillgänglig för kontakt både under och utanför skoltid för att försöka hjälpa gruppen, svara på frågor och diskutera eventuella problem som uppstått under projektets gång.
+
 ### Student 1
 
 ### Student 2
@@ -121,8 +123,6 @@ Gjort tågsidan och dess innehåll.
 Lagt in text, bilder och länkar i HTML.
 Delat upp sidan i olika sektioner för att organisera innehållet.
 Rättat fel i koden och gjort ändringar under arbetets gång.
-
-Jag har även bidragit genom att vara tillgänglig för kontakt både under och utanför skoltid för att försöka hjälpa gruppen, svara på frågor och diskutera eventuella problem som uppstått under projektets gång.
 
 ### Student 4
 
