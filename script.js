@@ -1,15 +1,24 @@
+/* ══════════════════════════════════════════
+         Navgation
+    ═══════════════════════════════════════════ */
 fetch("navbar.html")
   .then((response) => response.text())
   .then((data) => {
     document.getElementById("navbar").innerHTML = data;
   });
 
+/* ══════════════════════════════════════════
+         Banner
+    ═══════════════════════════════════════════ */
 fetch("banner.html")
   .then((response) => response.text())
   .then((data) => {
     document.getElementById("banner").innerHTML = data;
   });
 
+/* ══════════════════════════════════════════
+         Footer   
+      ═══════════════════════════════════════════*/
 fetch("footer.html")
   .then((response) => response.text())
   .then((data) => {
