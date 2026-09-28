@@ -123,3 +123,7 @@ Jag har även bidragit genom att vara tillgänglig för kontakt både under och 
 Jag har gjort sidan som handlar om tunnelbana. Fick ansvar över att göra en footer till hemsidan, där jag även la till en backtotop-button. För att minska mängden DRY-koder lade jag till footern i javascript-filen för att kunna fetcha till varje enskild html-sida.
 
 ### Student 5
+
+Jag ansvarade för att skapa sidan "Om oss" och dess innehåll. Jag utvecklade även webbplatsens navigationsmeny genom att skapa dess HTML-struktur och funktionalitet, vilket gjorde det möjligt för användaren att enkelt navigera mellan webbplatsens olika sidor.
+
+För att minska mängden upprepad kod och göra webbplatsen enklare att underhålla utvecklade jag ett system där navbaren och bannern ligger i separata HTML-filer som hämtas in med JavaScript på varje sida. Jag strukturerade även CSS-filen för att göra den mer överskådlig och lade till CSS-variabler för att minska duplicerad kod och förenkla framtida ändringar.
