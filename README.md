@@ -111,4 +111,6 @@ Följ dessa steg för att köra webbplatsen lokalt med hjälp av Visual Studio C
 
 ### Student 4
 
+Jag har gjort sidan som handlar om tunnelbana. Fick ansvar över att göra en footer till hemsidan, där jag även la till en backtotop-button. För att minska mängden DRY-koder lade jag till footern i javascript-filen för att kunna fetcha till varje enskild html-sida.
+
 ### Student 5
