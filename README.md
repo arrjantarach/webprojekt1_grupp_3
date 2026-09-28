@@ -69,6 +69,12 @@ webprojekt1_grupp_3
 
 ### Buss
 
+[Transportstyrelsen. *Fordonstyper: Buss.* Hämtad 28 september 2026](https://www.transportstyrelsen.se/sv/vagtrafik/Fordon/fordonstyper/buss/)
+
+[Transportstyrelsen (2025). *För dig  i branschen: Funktionellt prioriterat vagnät.* Hämtad 28 september 2026.](https://bransch.trafikverket.se/for-dig-i-branschen/vag/funktionellt-prioriterat-vagnat/)
+
+[Trafikverket (2026). *Resa och trafik: Underhåll: Så förbättrar vi kollektivtrafiken.* Hämtad 28 september 2026.](https://www.trafikverket.se/resa-och-trafik/underhall/sa-forbattrar-vi-kollektivtrafiken/)
+
 [Svensk kollektivtrafik. _Rapporter: Kollektivtrafikens bidrag till transportsektorns klimatmål._ Hämtad 20 september 2026.](https://svenskkollektivtrafik.se/aktuellt/rapporter/kollektivtrafikens-bidrag-till-transportsektorns-klimatmal/)
 
 [Folkhalsomyndigheten. _Miljö och hälsa: Hur påverkar miljön befolkningen?_ Hämtad 20 september 2026.](https://www.folkhalsomyndigheten.se/vara-amnesomraden/miljo-och-halsa/sa-paverkar-miljon-hur-befolkningen-mar/sa-paverkas-halsan-av-buller-och-hoga-ljudnivaer/)
