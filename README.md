@@ -40,7 +40,7 @@ Följ dessa steg för att köra webbplatsen lokalt med hjälp av Visual Studio C
 7. Webbplatsen öppnas automatiskt i din standardwebbläsare eller i Visual Studio Code.
 
 ## Strukturen på hemsidan
-
+```
 webprojekt1_grupp_3
 │
 ├── .vscode/
@@ -64,13 +64,7 @@ webprojekt1_grupp_3
 ├── style.css
 │
 └── README.md
-
-## Kurskrav
-
-## Förbättringar / Vidareutveckling
-
-## Buggar
-
+```
 ## Referenser
 
 ### Buss
